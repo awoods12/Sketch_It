@@ -59,4 +59,4 @@ for i, label in labels:
             sess.run(train, feed_dict={input_matrix:img, label_ph:label_image})
 
 saver = tf.train.Saver()
-saver.save(sess,'../models/save4.ckpt')
+saver.save(sess,'..\\your_save_path')
