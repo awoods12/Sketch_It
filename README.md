@@ -16,4 +16,4 @@ QuickDraw: https://github.com/googlecreativelab/quickdraw-dataset
 Open Images(Google Bigquery): https://console.cloud.google.com/bigquery?p=bigquery-public-data
 
 ![alt text](https://github.com/awoods12/Sketch_It/blob/master/images/converted_312524106_4ac9aa862b_o.jpg)
-![alt text](https://github.com/awoods12/Sketch_It/blob/master/images/Vanconverted_6763235_df4352292b_o.jpg)
+![alt text](https://github.com/awoods12/Sketch_It/blob/master/images/Vanconverted_6763235_df4352292b_o_50.jpg)
